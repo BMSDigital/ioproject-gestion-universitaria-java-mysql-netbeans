@@ -1,2 +1,2 @@
-# ioproject-gestion-universitaria-java-mysql-netbeans
-Sistema de inscripciones de estudiantes y profesores universitario de unefa 
+# ioproject-boleteria-java-netbean-mysql
+Sistema de boletería y venta de Pasajes de la vía férrea del ferrocarril.

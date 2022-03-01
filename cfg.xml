@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+	<user firstuse="true">
+		<screen width="1200" height="800" maximized="false"></screen>
+	</user>
+	<sql>
+		<configuration host="localhost" database="projectdb" port="3306" user="root" passw=""></configuration>
+		<tables profesor="proof"></tables>
+	</sql>
+</doc>
