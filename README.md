@@ -38,6 +38,7 @@ El proyecto consiste en un sistema de gestion de incripciones universitarias y h
 
 ## Instalacion
 Para  manejar este proyecto utilice
+```
 ```bash
 JRE - 8u111
 ```
