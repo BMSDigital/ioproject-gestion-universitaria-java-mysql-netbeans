@@ -26,8 +26,8 @@ El proyecto consiste en un sistema de gestion de incripciones universitarias y h
 ```
 ```bash
 ✅Consulta listado de profesores
-
-
+```
+```bash
 ✅Actualizacion de horarios del profesor
 ```
 ```bash
@@ -78,7 +78,6 @@ Actualizacion de datos del profesor
 
 Configuracion del sistema
 ![Configuracion del sistema](https://user-images.githubusercontent.com/93888388/156260128-e4efd076-4380-43c1-b306-ad1abf642025.PNG)
-
 
 ### Notes
 Si desean contactar para dialogar acerca del proyecto les dejo un link [Linkedin](www.linkedin.com/in/fraiberth-bracho)
